@@ -14,6 +14,6 @@
 
 ## [`联系我们`](#5.%20列表)
 - > [官方网站](http://www.wkzf.org)
-- > [Telegram](https://t.me/wukongminer)
+- > [Telegram](https://)
 - > [建议与反馈](https://github.com/wukongminer/MinerProxy/issues)
 
