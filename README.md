@@ -3,6 +3,8 @@
 
 - >专业团队打造，励志做最好用最稳定的挖矿转发软件，全新windows服务和控制台分离架构，支持ETH，ETC，作者抽水0.5%，如果运维开启抽水，作者则抽水1%，无任何水分，可以自行抓包测试。
 
+(https://github.com/wukongminer/MinerProxy/blob/main/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+
 ## [`如何使用`](#5.%20列表)
 - > [服务端下载地址](http:/www.baidu.com)
 - > [控制台下载地址](https://www.baidu.com)
