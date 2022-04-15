@@ -37,20 +37,9 @@
    * 为什么
    * 为什么
 
+
 ## 支持我们
   * 为了支持我们后续维护更新，作者抽水: <font color="#dd0000">**`0.1%`**</font>，欢迎各位看官抓包测试。
-
-## 转发原理
-```flow
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
 
 
 ## 联系我们
