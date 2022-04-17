@@ -34,8 +34,8 @@
    * 客户端
      > ![](/img/客户端.png)     
  * 下载软件
-   * [服务端下载](http://www.wukongzhuangfa.com/download/server.zip)
-   * [客户端下载](http://www.wukongzhuangfa.com/download/client.zip)
+   * [服务端下载](https://github.com/wukongminer/MinerProxy/releases/download/MinerProxy/server.zip)
+   * [客户端下载](https://github.com/wukongminer/MinerProxy/releases/download/MinerProxy/client.zip)
  * 新手指导
    * 开始运行
      > 双击运行【悟空控制台.exe】，如下所示；
