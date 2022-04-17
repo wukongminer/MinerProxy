@@ -62,15 +62,15 @@
      > ![](高级添加节点01.png)
      > ![](高级添加节点02.png)
      > ![](高级添加节点03.png)
-     > ![](D:\PngFile\高级添加节点04.png)
+     > ![](高级添加节点04.png)
    * 开始挖矿
      > 1、复制转发服务器
-     > ![](D:\PngFile\开始挖矿01.png)
+     > ![](开始挖矿01.png)
      > 2、查看实时状态
-     > ![](D:\PngFile\查看矿工数据.png)
+     > ![](查看矿工数据.png)
    * 设置异常接收手机号
      > 1、运行客户端【悟空客户端.exe】
-     > ![](D:\PngFile\客户端01.png)
+     > ![](客户端01.png)
 
 -------
 
@@ -98,4 +98,4 @@
 ## 联系我们
  * [官方网站](http://www.wukongzhuanfa.com)
  * [Telegram](https://t.me/wukongminer)
- * [建议与反馈](https://)
+ * [建议与反馈](https://github.com/wukongminer/MinerProxy/issues)
